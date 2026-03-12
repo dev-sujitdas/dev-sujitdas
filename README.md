@@ -8,7 +8,7 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 
 ### Frontend
 
-#### ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge\&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
@@ -26,10 +26,18 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 ![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis%20Upstash-0d1117?style=for-the-badge\&logo=redis)
 
-### Currently Learning
+### Currently Learning Modern Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge\&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge\&logo=postgresql)
-![AI Copilot](https://img.shields.io/badge/AI%20Copilot-0d1117?style=for-the-badge)
+
+### ⚙️ Backend Concepts & Tools
+
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge\&logo=socketdotio)
+![Node.js Streams](https://img.shields.io/badge/Node.js%20Streams-0d1117?style=for-the-badge\&logo=node.js)
+![Multer](https://img.shields.io/badge/Multer-0d1117?style=for-the-badge\&logo=node.js)
+![Server Side Rendering](https://img.shields.io/badge/Server%20Side%20Rendering-0d1117?style=for-the-badge\&logo=next.js)
+
+
