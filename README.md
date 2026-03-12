@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Sujit
+# 👋 Hi, I'm Sujit
 
-💻 Frontend Developer | Creative Web Developer | Exploring Modern Backend
+## 💻 Frontend Developer | Creative Web Developer | Exploring Modern Backend
 
 I’m a developer who enjoys building fast, interactive, and visually engaging web experiences. My focus is on crafting clean UI, smooth animations, and scalable web applications. I love turning ideas into responsive interfaces while continuously expanding my skills toward full-stack development.
 
