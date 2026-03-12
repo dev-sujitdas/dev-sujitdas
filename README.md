@@ -8,7 +8,7 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)
+#### ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge\&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
