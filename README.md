@@ -40,8 +40,8 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 ![Multer](https://img.shields.io/badge/Multer-0d1117?style=for-the-badge\&logo=node.js)
 ![Server Side Rendering](https://img.shields.io/badge/Server%20Side%20Rendering-0d1117?style=for-the-badge\&logo=next.js)
 
-## Some Recent Client Projects
-## 🚀 Client Projects
+
+## 🚀 Recent Client Projects
 
 ### 🌐 Boardgame Cafe (Dr. & Dr. Samosa)
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/0bcd0e4e-e54e-43a5-9751-092cd4bd472d" />
