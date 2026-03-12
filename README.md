@@ -45,7 +45,7 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 
 ### 🌐 Business Website
 
-![Project Screenshot](https://your-image-link.com)
+![Project Screenshot]([https://rollwithsamosa.com](https://drive.google.com/file/d/1UMqX1E8yqXzkVgBElEZaS-Spx-CvkFoa/view?usp=sharing)
 
 **Tech:** React • Tailwind • GSAP
 🔗 Live: https://project-link.com
