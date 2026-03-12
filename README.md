@@ -43,12 +43,11 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 ## Some Recent Client Projects
 ## 🚀 Client Projects
 
-### 🌐 Business Website
-
-![Project Screenshot]([https://rollwithsamosa.com](https://drive.google.com/file/d/1UMqX1E8yqXzkVgBElEZaS-Spx-CvkFoa/view?usp=sharing)
+### 🌐 Boardgame Cafe Website
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/0bcd0e4e-e54e-43a5-9751-092cd4bd472d" />
 
 **Tech:** React • Tailwind • GSAP
-🔗 Live: https://project-link.com
+🔗 Live: https://rollwithsamosa.com
 
 ---
 
