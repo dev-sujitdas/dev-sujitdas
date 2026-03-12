@@ -33,11 +33,31 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge\&logo=postgresql)
 
-### ⚙️ Backend Concepts & Tools
+### Backend Concepts & Tools
 
 ![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge\&logo=socketdotio)
 ![Node.js Streams](https://img.shields.io/badge/Node.js%20Streams-0d1117?style=for-the-badge\&logo=node.js)
 ![Multer](https://img.shields.io/badge/Multer-0d1117?style=for-the-badge\&logo=node.js)
 ![Server Side Rendering](https://img.shields.io/badge/Server%20Side%20Rendering-0d1117?style=for-the-badge\&logo=next.js)
+
+## Some Recent Client Projects
+## 🚀 Client Projects
+
+### 🌐 Business Website
+
+![Project Screenshot](https://your-image-link.com)
+
+**Tech:** React • Tailwind • GSAP
+🔗 Live: https://project-link.com
+
+---
+
+### 🛒 E-commerce Platform
+
+![Project Screenshot](https://your-image-link.com)
+
+**Tech:** React • API Integration
+🔗 Live: https://project-link.com
+
 
 
