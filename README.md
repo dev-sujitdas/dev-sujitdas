@@ -14,17 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 
 ## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js)
 
 ### Frontend
 
