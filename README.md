@@ -43,6 +43,13 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 
 ## 🚀 Recent Client Projects
 
+### 🌐 Creative Development Agency (Gravity Global Solution)
+<img width="1906" height="935" alt="image" src="https://github.com/user-attachments/assets/61fad5ca-aae1-49a2-a1f3-a21c67f2cb9b" />
+
+
+**Tech:** React • Tailwind • GSAP • Lenis
+🔗 Live: https://gravityglobal.in
+
 ### 🌐 Boardgame Cafe (Dr. & Dr. Samosa)
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/0bcd0e4e-e54e-43a5-9751-092cd4bd472d" />
 
