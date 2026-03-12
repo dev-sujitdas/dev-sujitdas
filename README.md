@@ -43,20 +43,28 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 ## Some Recent Client Projects
 ## 🚀 Client Projects
 
-### 🌐 Boardgame Cafe Website
+### 🌐 Boardgame Cafe (Dr. & Dr. Samosa)
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/0bcd0e4e-e54e-43a5-9751-092cd4bd472d" />
 
-**Tech:** React • Tailwind • GSAP
+**Tech:** React • Tailwind • GSAP • Lenis
 🔗 Live: https://rollwithsamosa.com
 
 ---
+### 🌐 Tarot Reading (Divya Tarot)
 
-### 🛒 E-commerce Platform
+<img width="1908" height="940" alt="image" src="https://github.com/user-attachments/assets/2f2d3265-0d23-4fa6-984b-d41c556408d7" />
 
-![Project Screenshot](https://your-image-link.com)
+**Tech:** React • Tailwind • GSAP • Lenis
+🔗 Live: https://divyatarot.in/
 
-**Tech:** React • API Integration
-🔗 Live: https://project-link.com
+---
+
+### 🌐 Financial Advisor Firm (Plan for Life)
+
+<img width="1904" height="944" alt="image" src="https://github.com/user-attachments/assets/61d51c42-8cc8-4260-aca7-87ad4e6ebc43" />
+
+**Tech:** React • Tailwind • GSAP • Lenis
+🔗 Live: https://pfl-3e49.vercel.app/
 
 
 
