@@ -43,13 +43,6 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 
 ## 🚀 Recent Client Projects
 
-### 🌐 Creative Development Agency (Gravity Global Solution)
-<img width="1906" height="935" alt="image" src="https://github.com/user-attachments/assets/61fad5ca-aae1-49a2-a1f3-a21c67f2cb9b" />
-
-
-**Tech:** React • Tailwind • GSAP • Lenis
-🔗 Live: https://gravityglobal.in
-
 ### 🌐 Boardgame Cafe (Dr. & Dr. Samosa)
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/0bcd0e4e-e54e-43a5-9751-092cd4bd472d" />
 
@@ -65,13 +58,6 @@ I’m a developer who enjoys building fast, interactive, and visually engaging w
 🔗 Live: https://divyatarot.in/
 
 ---
-
-### 🌐 Financial Advisor Firm (Plan for Life)
-
-<img width="1904" height="944" alt="image" src="https://github.com/user-attachments/assets/61d51c42-8cc8-4260-aca7-87ad4e6ebc43" />
-
-**Tech:** React • Tailwind • GSAP • Lenis
-🔗 Live: https://pfl-3e49.vercel.app/
 
 
 
